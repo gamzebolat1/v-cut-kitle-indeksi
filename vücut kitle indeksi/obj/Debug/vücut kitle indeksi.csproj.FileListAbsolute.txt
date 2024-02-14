@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\vücut kitle indeksi.exe.config
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\vücut kitle indeksi.exe
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\vücut kitle indeksi.pdb
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut kitle indeksi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut_kitle_indeksi.Form1.resources
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut_kitle_indeksi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut kitle indeksi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut kitle indeksi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut kitle indeksi.exe
+C:\Users\LENOVO\Desktop\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\vücut kitle indeksi.pdb
